@@ -1,4 +1,4 @@
-# Hello-processing
+
 void setup() {
 size(500, 500);
 background(10, 80, 100);
